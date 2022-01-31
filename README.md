@@ -1,3 +1,2 @@
 # Examples of Pressed States in SwiftUI
-
-https://user-images.githubusercontent.com/3452573/151867528-bbe2777e-cb6e-44e5-ae7b-2f86bd7f719a.mp4
+https://user-images.githubusercontent.com/3452573/151867915-9e8f3837-191e-4032-ab39-72601e129679.mp4
